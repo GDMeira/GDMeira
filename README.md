@@ -3,4 +3,3 @@
 - 💬 Ask me about anything, i love a good talk
 - 📫 How to reach me: gabriel.delgado@alumni.usp.br
 - 😄 Pronouns: he/his
--->
