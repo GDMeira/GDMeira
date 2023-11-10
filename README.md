@@ -2,7 +2,7 @@
 <h3>About me</h3>
 <ul>
   <li>🔭 I’m currently working on my master's project</li>
-  <li>🌱 I’m currently learning Backend developing like Express and PostgresSQL</li>
+  <li>🌱 I’m currently learning Docker and other related DevOps skills</li>
   <li>💬 Ask me about anything, i love a good talk</li>
   <li>📫 How to reach me: gabriel.delgado@alumni.usp.br</li>
   <li>😄 Pronouns: he/his</li>
