@@ -8,30 +8,100 @@
   <li>😄 Pronouns: he/his</li>
 </ul>
 
-<br><br>
+<hr />
 
 
-<div>
-  <a href="https://github.com/GDMeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GDMeira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDMeira&layout=compact&langs_count=7&theme=onedark"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=GDMeira&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" alt="streak graph"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="GDMeira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GDMeira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GDMeira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GDMeira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GDMeira-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="GDMeira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="GDMeira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<h3 align="center">Languages and Tools</h3>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" title="TypeScript" />
+        <img width="12" /> TypeScript
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript"/>
+        <img width="12" /> JavaScript
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="40" title="Node.js"/>
+        <img width="12" /> Node.js
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/>
+        <img width="12" /> Express
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React"/>
+        <img width="12" /> React
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="40" title="Postgres" />
+        <img width="12" /> Postgres
+      </td>
+       <td>
+        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="Prisma" height="40" title="Prisma" />
+        <img width="12"/> Prisma
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB" />
+        <img width="12"/> MongoDB
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="JavaScript" height="40" title="Redis"/>
+        <img width="12" /> Redis
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="40" title="Jest" />
+        <img width="12" /> Jest
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40" title="HTML"/> 
+        <img width="12" /> HTML
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" title="CSS"/>
+        <img width="12" /> CSS
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" title="Python"/>
+        <img width="12"/> Python
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" height="40" title="C"/>
+        <img width="12"/> C#
+      </td>
+      <td>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" title="Git"/>
+        <img width="12"/> Git
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" title="Linux"/>
+        <img width="12"/> Linux
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="40" title="Figma"/>
+        <img width="12"/> Figma
+      </td>
+      <td>
+        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="visual Studio" height="40" title="Visual Studio"/>
+        <img width="12"/> Visual Studio
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<br><br>
+<hr />
 
-<p align="left" color="white">
+<h3 align="center">
  ✉️ Contact me: ⤵️
-</p>
+</h3>
 
 <p align="left">
   <a href="mailto:gabriel.delgado@alumni.usp.br" alt="Gmail">
@@ -39,7 +109,14 @@
 
   <a href="https://www.linkedin.com/in/gabriel-m-delgado/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-m-delgado/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" /></a>
+</p>
 
-  <a href="https://api.whatsapp.com/send?phone=+5519992179323&text=" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5519992179323&text="/></a>
+<hr />
+
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+    <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=GDMeira&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most used languages" />
+    <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GDMeira&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</div>
+  
 
