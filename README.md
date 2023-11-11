@@ -115,8 +115,8 @@
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
+    <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=GDMeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=GDMeira&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most used languages" />
-    <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GDMeira&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>
   
 
